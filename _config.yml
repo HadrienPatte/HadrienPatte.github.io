@@ -1,2 +1,11 @@
+---
 title: Hadrien Patte's personal site
 analytics: UA-146407422-1
+
+social:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/hadrienpatte
+  - name: GitHub
+    url: https://github.com/HadrienPatte
+  - name: Ansible Galaxy
+    url: https://galaxy.ansible.com/hadrienpatte
