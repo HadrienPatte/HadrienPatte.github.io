@@ -1,3 +1,5 @@
 {% for profile in site.social %}
-<a href="{{ profile.url }}">{{ profile.name }}</a>
+<a href="{{ profile.url }}">
+  {% include vectors/{{ profile.name }}.svg %}
+</a>
 {% endfor %}
