@@ -2,7 +2,13 @@
 <html>
 {% include head.html %}
 <body>
-  {{ content }}
-  {% include social.html %}
+  <div class="main">
+    <div class="me">
+      <h1>{{ site.name }}</h1>
+      {% include vectors/me.svg %}
+      {{ content }}
+    </div>
+      {% include social.html %}
+  </div>
 </body>
 </html>

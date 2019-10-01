@@ -1,5 +1,6 @@
 ---
 title: Hadrien Patte's personal site
+name: Hadrien Patte
 analytics: UA-146407422-1
 
 social:
@@ -7,5 +8,7 @@ social:
     url: https://www.linkedin.com/in/hadrienpatte
   - name: github
     url: https://github.com/HadrienPatte
+  - name: gitlab
+    url: https://gitlab.com/HadrienPatte
   - name: ansible-galaxy
     url: https://galaxy.ansible.com/hadrienpatte
