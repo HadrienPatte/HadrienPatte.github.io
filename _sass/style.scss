@@ -1,3 +1,6 @@
+$clickable-color: #a8d8ea;
+$clickable-hover-color: #ffffff;
+
 body {
   text-align: center;
   color: #a7b1c2;
@@ -31,30 +34,42 @@ body {
   border-radius: 0.5rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
   padding-bottom: 1rem;
+
+  svg {
+    width: 10rem;
+    height: 10rem;
+    margin: 1rem;
+  }
 }
 
-.me-photo {
-  width: 10rem;
-  height: 10rem;
-  margin: 1rem;
-}
 
-.social {
+
+ul {
   padding-inline-start: 0;
 }
 
-.profile {
+li {
   display: inline-block;
   margin: 1rem;
   border-radius: 50%;
 }
 
+a {
+  text-decoration: none;
+  color: $clickable-color;
+
+  &:hover {
+    color: $clickable-hover-color;
+  }
+}
+
+
 svg.social {
   width: 2rem;
   height: 2rem;
-  fill: #a8d8ea;
-}
+  fill: $clickable-color;
 
-path.social:hover {
-  fill: #ffffff;
+  path:hover {
+    fill: $clickable-hover-color;
+  }
 }
