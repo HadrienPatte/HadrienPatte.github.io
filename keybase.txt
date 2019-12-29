@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hadrienpatte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://HadrienPatte.github.io
+  * I am hadrienpatte (https://keybase.io/hadrienpatte) on keybase.
+  * I have a public key ASCi1c6BWapMegrZSHV3cktFeGwSC0Y4hqweHKLDiUyCKAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a2d5ce8159aa4c7a0ad9487577724b45786c120b463886ac1e1ca2c3894c82280a",
+      "host": "keybase.io",
+      "kid": "0120a2d5ce8159aa4c7a0ad9487577724b45786c120b463886ac1e1ca2c3894c82280a",
+      "uid": "9dcef22a2f70bf01f20f502439e44d19",
+      "username": "hadrienpatte"
+    },
+    "merkle_root": {
+      "ctime": 1577645865,
+      "hash": "05def9320c3cfcd4c75f5eb346de4cb7b954487132138a549cc9572ec4f8fbfd8fe6d141222917e61789bb9f0893aa89eeb4a731c628997aaa535e070d29007d",
+      "hash_meta": "0cb48d54ee96da5fbd0b9772dc2e32005b20acdacfd3ea0c2d36958e6c738f4f",
+      "seqno": 14005984
+    },
+    "service": {
+      "entropy": "0+WwTysv9EyUgAdcJd6P6xbI",
+      "hostname": "HadrienPatte.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1577645885,
+  "expire_in": 504576000,
+  "prev": "e7dc7baa30de382d14fde6d1d466abbe036302aebab8bc1a16c64b4b14a089b1",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgotXOgVmqTHoK2Uh1d3JLRXhsEgtGOIasHhyiw4lMgigKp3BheWxvYWTESpcCBcQg59x7qjDeOC0U/ebR1GarvgNjAq66uLwaFsZLSxSgibHEIE7QrRyzWicHPxj5X90dGrfZAYQ2neXVV7g1qSsjOyMrAgHCo3NpZ8RAl/Ij4aS9l7DJP+ajt+h7zVP9qtE6ay0OfxNu/VBEZjNnu7ReaiHXQshug1sGk9TWljQYCitpadU86yfDTxkbDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIImey+B9Ck1pndSpHJPidHhXPs0OnbWuL/RkySAdK4FKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hadrienpatte
+
+==================================================================
