@@ -12,3 +12,7 @@ social:
     url: https://gitlab.com/HadrienPatte
   - name: ansible-galaxy
     url: https://galaxy.ansible.com/hadrienpatte
+
+exclude:
+  - README.md
+  - LICENSE
